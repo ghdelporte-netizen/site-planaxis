@@ -2,9 +2,9 @@
 
 export const doctors = [
   {
-    id: "dr-marc-alban",
-    slug: "dr-marc-alban",
-    name: "Dr Marc-Antoine Alban",
+    id: "dr-marc-x1",
+    slug: "dr-marc-x1",
+    name: "Dr Marc-Antoine X1",
     title: "Médecin Spécialiste FMH en Médecine Interne Générale",
     role: "Médecine Générale & Responsable Médical",
     credentials: [
@@ -15,7 +15,7 @@ export const doctors = [
     ],
     specialties: ["Médecine interne", "Suivi cardiovasculaire", "Bilans de santé", "Médecine de famille"],
     languages: ["Français", "Anglais", "Allemand"],
-    bio: "Fort de 15 années d'exercice clinique en milieu hospitalier universitaire puis en cabinet de premier recours, le Dr Alban privilégie une relation de confiance durable avec ses patients. Il coordonne le pôle médical de Planaxis à Gland avec une exigence constante d'écoute attentive et de rigueur diagnostique.",
+    bio: "Fort de 15 années d'exercice clinique en milieu hospitalier universitaire puis en cabinet de premier recours, le Dr X1 privilégie une relation de confiance durable avec ses patients. Il coordonne le pôle médical de Planaxis à Gland avec une exigence constante d'écoute attentive et de rigueur diagnostique.",
     photo: "/assets/photos/planaxis-center-view.jpg",
     avatarInitial: "MA",
     nextAvailable: "Aujourd'hui à 15h40",
