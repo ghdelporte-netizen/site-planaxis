@@ -283,7 +283,7 @@ export function renderHomePage() {
 
           <!-- Photo 3 : Salle de consultation avec mobilier moderne et lit d'examen -->
           <div class="gallery-item">
-            <img src="/assets/photos/planaxis-consultation.jpg" alt="Consultation médicale personnalisée à Planaxis : une assistante médicale accueille un patient autour du bureau en marbre et chêne" />
+            <img src="/assets/photos/planaxis-consultation-modern.jpg" alt="Salle de consultation médicale moderne avec plateau d'examen, hygiène clinique et lumière naturelle" />
             <div class="gallery-caption">
               <div class="gallery-caption-title">Salles de Consultation Médicale</div>
               <div class="gallery-caption-sub">Plateau d'examen moderne, hygiène clinique et lumière naturelle</div>
