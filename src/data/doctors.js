@@ -24,7 +24,7 @@ export const doctors = [
   {
     id: "dr-claire-favre",
     slug: "dr-claire-favre",
-    name: "Dresse Claire Favre-Borel",
+    name: "Dresse Claire X2",
     title: "Médecin Spécialiste FMH en Pédiatrie",
     role: "Pédiatrie & Santé de l'Adolescent",
     credentials: [
@@ -35,7 +35,7 @@ export const doctors = [
     ],
     specialties: ["Développement du nourrisson", "Vaccinations pédiatriques", "Urgences de l'enfant", "Nutrition infantile"],
     languages: ["Français", "Anglais", "Italien"],
-    bio: "Passionnée par l'accompagnement des enfants de la naissance jusqu'à l'âge adulte, la Dresse Favre-Borel crée une ambiance chaleureuse et sécurisante pour chaque consultation. Elle veille à associer les parents à chaque étape du parcours de soins pédiatrique.",
+    bio: "Passionnée par l'accompagnement des enfants de la naissance jusqu'à l'âge adulte, la Dresse X2 crée une ambiance chaleureuse et sécurisante pour chaque consultation. Elle veille à associer les parents à chaque étape du parcours de soins pédiatrique.",
     photo: "/assets/photos/planaxis-team-recruitment.jpg",
     avatarInitial: "CF",
     nextAvailable: "Demain à 09h15",
