@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 136" fill="none" width="100%" height="100%">
+  <defs>
+    <filter id="shieldShadow" x="-10%" y="-10%" width="120%" height="130%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#263944" flood-opacity="0.12"/>
+    </filter>
+    <clipPath id="shieldClip">
+      <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Contour et fond du Bouclier Planaxis -->
+  <g filter="url(#shieldShadow)">
+    <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z" fill="#FFFFFF"/>
+    
+    <!-- Quadrants aux couleurs de la charte Planaxis -->
+    <g clip-path="url(#shieldClip)">
+      <!-- Quadrant Supérieur Gauche : Navy (#263944) -->
+      <path d="M8 4H60V68H8V4Z" fill="#263944"/>
+      <!-- Quadrant Supérieur Droit : Sage (#718F83) -->
+      <path d="M60 4H112V68H60V4Z" fill="#718F83"/>
+      <!-- Quadrant Inférieur Gauche : Sand (#E7C985) -->
+      <path d="M8 68H60V132H8V68Z" fill="#E7C985"/>
+      <!-- Quadrant Inférieur Droit : Terracotta (#D88370) -->
+      <path d="M60 68H112V132H60V68Z" fill="#D88370"/>
+      
+      <!-- Liseré de respiration interne -->
+      <path d="M60 4V132" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+      <path d="M8 68H112" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+
+      <!-- Croix Suisse emblématique épurée au centre -->
+      <g>
+        <rect x="52" y="44" width="16" height="48" rx="3" fill="#FFFFFF"/>
+        <rect x="36" y="60" width="48" height="16" rx="3" fill="#FFFFFF"/>
+      </g>
+    </g>
+
+    <!-- Bordure noble de finition du bouclier -->
+    <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z" 
+          stroke="#263944" stroke-width="3" stroke-linejoin="round" fill="none" opacity="0.15"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "planaxis-medical-website",
+  "version": "1.0.0",
+  "description": "Site internet premium du cabinet médical PLANAXIS à Gland (Vaud, Suisse)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "planaxis",
+    "cabinet-medical",
+    "gland",
+    "vaud",
+    "suisse",
+    "sante",
+    "medecine"
+  ],
+  "author": "Planaxis Digital Studio",
+  "license": "Private"
+}

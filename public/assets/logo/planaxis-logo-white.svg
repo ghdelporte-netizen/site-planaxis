@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" fill="none" width="100%" height="100%">
+  <!-- Planaxis Shield Icon -->
+  <g transform="translate(4, 2) scale(0.42)">
+    <defs>
+      <clipPath id="logoShieldClipWhite">
+        <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z"/>
+      </clipPath>
+    </defs>
+    <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z" fill="#FFFFFF"/>
+    <g clip-path="url(#logoShieldClipWhite)">
+      <path d="M8 4H60V68H8V4Z" fill="#263944"/>
+      <path d="M60 4H112V68H60V4Z" fill="#718F83"/>
+      <path d="M8 68H60V132H8V68Z" fill="#E7C985"/>
+      <path d="M60 68H112V132H60V68Z" fill="#D88370"/>
+      <path d="M60 4V132" stroke="#FFFFFF" stroke-width="4"/>
+      <path d="M8 68H112" stroke="#FFFFFF" stroke-width="4"/>
+      <rect x="52" y="44" width="16" height="48" rx="3" fill="#FFFFFF"/>
+      <rect x="36" y="60" width="48" height="16" rx="3" fill="#FFFFFF"/>
+    </g>
+    <path d="M60 4C82 4 112 10 112 36C112 84 80 118 60 130C40 118 8 84 8 36C8 10 38 4 60 4Z" 
+          stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" fill="none" opacity="0.4"/>
+  </g>
+
+  <!-- Wordmark PLANAXIS White -->
+  <text x="66" y="36" font-family="'Avenir Next', 'Plus Jakarta Sans', Inter, -apple-system, sans-serif" 
+        font-size="26" font-weight="700" letter-spacing="2.5" fill="#FFFFFF">PLANAXIS</text>
+        
+  <!-- Signature / Tagline White & Sand -->
+  <text x="68" y="52" font-family="'Avenir Next', 'Plus Jakarta Sans', Inter, -apple-system, sans-serif" 
+        font-size="9" font-weight="600" letter-spacing="1.8" fill="#E7C985" text-transform="uppercase">CENTRE MÉDICAL · GLAND</text>
+</svg>
