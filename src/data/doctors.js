@@ -42,9 +42,9 @@ export const doctors = [
     days: "Mardi, Mercredi, Jeudi, Vendredi"
   },
   {
-    id: "dr-julien-vogel",
-    slug: "dr-julien-vogel",
-    name: "Dr Julien Vogel",
+      id: "dr-julien-x3",
+      slug: "dr-julien-x3",
+      name: "Dr Julien X3",
     title: "Médecin Praticien FMH · Médecine d'Urgence Ambulatoire",
     role: "Soins Non Programmés & Petite Chirurgie",
     credentials: [
@@ -55,7 +55,7 @@ export const doctors = [
     ],
     specialties: ["Soins urgents sans délai", "Sutures & plaies", "Traumatologie bénigne", "Électrocardiogramme"],
     languages: ["Français", "Anglais"],
-    bio: "Le Dr Vogel assure la prise en charge immédiate des pathologies aiguës et des urgences quotidiennes. Grâce au plateau technique intégré de Planaxis, il dispense des soins rapides et précis évitant ainsi le recours aux urgences hospitalières surchargées.",
+    bio: "Le Dr X3 assure la prise en charge immédiate des pathologies aiguës et des urgences quotidiennes. Grâce au plateau technique intégré de Planaxis, il dispense des soins rapides et précis évitant ainsi le recours aux urgences hospitalières surchargées.",
     photo: "/assets/photos/planaxis-consultation.jpg",
     avatarInitial: "JV",
     nextAvailable: "Créneaux d'urgence ouverts aujourd'hui",
