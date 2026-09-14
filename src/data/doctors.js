@@ -2,10 +2,10 @@
 
 export const doctors = [
   {
-      id: "dr-marc-alban",
-      slug: "dr-marc-alban",
-      name: "Dr X1",
-      title: "Médecin Spécialiste FMH en Médecine Interne Générale",
+    id: "dr-marc-alban",
+    slug: "dr-marc-alban",
+    name: "Dr Marc-Antoine Alban",
+    title: "Médecin Spécialiste FMH en Médecine Interne Générale",
     role: "Médecine Générale & Responsable Médical",
     credentials: [
       "Diplôme fédéral de médecin (Université de Lausanne / CHUV)",
