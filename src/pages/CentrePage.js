@@ -88,7 +88,7 @@ export function renderCentrePage() {
         <!-- Espace 3 : Salles de consultation -->
         <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 3.5rem; align-items: center;">
           <div style="border-radius: var(--radius-xl); overflow: hidden; box-shadow: var(--shadow-lg);">
-            <img src="/assets/photos/planaxis-consultation.jpg" alt="Cabinet de consultation moderne avec table d'examen et menuiserie en chêne" style="width: 100%; height: auto;" />
+            <img src="/assets/photos/planaxis-consultation.jpg" alt="Consultation médicale personnalisée à Planaxis : une assistante médicale accueille un patient autour du bureau en marbre et chêne" style="width: 100%; height: auto;" />
           </div>
           <div>
             <span class="badge badge-navy" style="margin-bottom: 1rem;">Cabinets de Consultation</span>
